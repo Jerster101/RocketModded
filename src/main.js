@@ -1,3 +1,14 @@
+/*******************************************************************
+ * Jeremy Dahlberg & Giandra Hutama
+ * Points breakdown:
+ *  - new, faster, more expensive spaceship type    (20 points)
+ *  - simultaneous two-player mode                  (30 points)
+ *  - UI and artwork rework to not sci-fi           (60 points)
+ *    TOTAL                                         (110 points)
+******************************************************************/
+
+
+
 let config = {
     type: Phaser.CANVAS,
     width: 640,
